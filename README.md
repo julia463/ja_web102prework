@@ -25,7 +25,7 @@ I added a search bar that can only show the games that match the search
 
 Here's a walkthrough of implemented features:
 
-<img src='prework2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='preworktake2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
