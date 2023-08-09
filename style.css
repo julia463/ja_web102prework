@@ -21,8 +21,13 @@ body {
 
 .stats-container {
     display: flex;
+    align-items:baseline;
+    
 }
-
+.stats-container:hover{
+    cursor:pointer;
+    box-shadow: 0 0 30px lightblue;
+}
 .stats-card {
     background-color: #a8b0bc;
     border-radius: 7px;
@@ -40,6 +45,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    gap: 20px;
 }
 
 .game-img {
@@ -72,4 +78,10 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+#search{
+    border-radius:8px;
+    border-color:none;
+    height:40px;
+    width:30%;
 }
